@@ -1,7 +1,8 @@
-// LR4_v17 Кацер Мирослав CH-11
+// LR4_v17 ГЉГ Г¶ГҐГ° ГЊГЁГ°Г®Г±Г«Г Гў CH-11
 #include <iostream>
 #include <math.h>
 using namespace std;
+setlocata(0,"ukr")
 int main()
 {
 	float a=2.1, S;
