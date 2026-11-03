@@ -2,7 +2,6 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-setlocata(0,"ukr");
 int main()
 {
 	float a=2.1, S;
